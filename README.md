@@ -1,3 +1,5 @@
+# ⛔️DEPRECATED⛔️
+
 # Middleman Portfolio Website
 
 This repo contains a working static website written with [Middleman](https://middlemanapp.com/), integrated with content coming from this [DatoCMS administrative area](https://dashboard.datocms.com/account/sites/template?name=Portfolio&siteId=604).
